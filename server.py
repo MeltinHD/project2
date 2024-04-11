@@ -74,19 +74,19 @@ class NoteApiHandler(BaseHTTPRequestHandler):
             with open('login.html', 'rb') as file:
                 self.wfile.write(file.read())
 
-        if self.path == '/user/updateReservation':
-            self.send_response(200)
-            self.send_header('Content-type', 'text/html')
-            self.end_headers()
-            with open('updateReservation.html', 'rb') as file:
-                self.wfile.write(file.read())
-
         # system
         if self.path == '/system':
             self.send_response(200)
             self.send_header('Content-type', 'text/html')
             self.end_headers()
             with open('system.html', 'rb') as file:
+                self.wfile.write(file.read())
+
+        if self.path == '/user/updateReservation':
+            self.send_response(200)
+            self.send_header('Content-type', 'text/html')
+            self.end_headers()
+            with open('updateReservation.html', 'rb') as file:
                 self.wfile.write(file.read())
 
     def do_POST(self):
