@@ -19,6 +19,8 @@ Problem solves: <br />
 The problem that this product will solve is to make life easier for the customer to make reservations online without having to make a phone call, or to come in-person and realizing that the restaurant is full. <br />
 
 Agile Software Engineering: <br />
+![prod2](https://github.com/MeltinHD/project2/assets/63826309/311a3938-2ed3-4e31-88fa-e7fb34a9a78c)
+
 User Stories: <br />
 User Story 1: Bob - Customer <br />
 As Bob, I want to easily make reservations online. <br />
@@ -39,7 +41,7 @@ As Bob, I want to be able to manage and edit my current reservations online. <br
 
 User Story 2: Tim - Restaurant Staff <br />
 As Tim, I want to manage the bookings of available reservations. <br />
-As Tim, I want to manage customer’s information <br />
+As Tim, I want to manage customer’s information. <br />
 As Tim, I want to receive notifications on reservations that are placed. <br />
 
 Scenarios: <br />
