@@ -5,16 +5,21 @@ BTP405 - Project 2  <br />
 Software Products:  <br />
 Product vision:  <br />
 For Customers, who want to make reservations online.The restaurant reservation system offers an interface for restaurant staff to manage the booking availability, customer information and receive notifications about reservations. UNLIKE other restaurants and cloud-based reservation systems, OUR reservation system enables users to make, manage, and cancel reservations online with the restaurant staff to manage availability, user information, and notification securely.  <br />
+
 Goals:  <br />
 The goal for our product is to create a cloud-based restaurant reservation system that is simple and easy for customers to book reservations online without any issues, and for the system to easily manage booking availability, information on the customers, and real-time notifications for any incoming reservations. <br />
+
 Requirements: <br />
 The requirements for this cloud-based restaurant reservation system to work and be successful is to have a well-coded program designed with microservices architecture to ensure scalability, flexibility, and easy maintenance. <br />
+
 Target Audience: <br />
 Online customers <br />
 Restaurants staffs <br />
+
 Key Features: <br />
 Make, manage, and cancel reservations online for the customers <br />
 Manage booking availability, customer information, and receive notifications about reservations for the restaurant staffs <br />
+
 Problem solves: <br />
 The problem that this product will solve is to make life easier for the customer to make reservations online without having to make a phone call, or to come in-person and realizing that the restaurant is full. <br />
 
