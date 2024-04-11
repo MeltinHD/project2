@@ -19,6 +19,7 @@ Problem solves: <br />
 The problem that this product will solve is to make life easier for the customer to make reservations online without having to make a phone call, or to come in-person and realizing that the restaurant is full. <br />
 
 Agile Software Engineering: <br />
+https://melvin-ancheta.atlassian.net/jira/software/projects/PROJ/boards/3/backlog
 ![prod2](https://github.com/MeltinHD/project2/assets/63826309/311a3938-2ed3-4e31-88fa-e7fb34a9a78c)
 
 User Stories: <br />
